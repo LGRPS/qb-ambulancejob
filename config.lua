@@ -28,14 +28,14 @@ Config.Locations = {
         [1] = vector3(298.44, -599.7, 43.29),
     },
     ["beds"] = {
-        [1] = {coords = vector4(353.1, -584.6, 43.11, 152.08), taken = false, model = 1631638868},
-        [2] = {coords = vector4(356.79, -585.86, 43.11, 152.08), taken = false, model = 1631638868},
-        [3] = {coords = vector4(354.12, -593.12, 43.1, 336.32), taken = false, model = 2117668672},
-        [4] = {coords = vector4(350.79, -591.8, 43.1, 336.32), taken = false, model = 2117668672},
-        [5] = {coords = vector4(346.99, -590.48, 43.1, 336.32), taken = false, model = 2117668672},
-        [6] = {coords = vector4(360.32, -587.19, 43.02, 152.08), taken = false, model = -1091386327},
-        [7] = {coords = vector4(349.82, -583.33, 43.02, 152.08), taken = false, model = -1091386327},
-        [8] = {coords = vector4(326.98, -576.17, 43.02, 152.08), taken = false, model = -1091386327},
+        [1] = {coords = vector4(311.13, -582.89, 43.53, 335.65), taken = false, model = 1631638868},
+        [2] = {coords = vector4(313.96, -579.05, 43.53, 164.5), taken = false, model = 1631638868},
+        [3] = {coords = vector4(314.58, -584.09, 43.53, 335.65), taken = false, model = 2117668672},
+        [4] = {coords = vector4(317.74, -585.29, 43.53, 335.65), taken = false, model = 2117668672},
+        [5] = {coords = vector4(319.47, -581.04, 43.53, 164.5), taken = false, model = 2117668672}, 
+        [6] = {coords = vector4(366.43, -581.54, 43.28, 66.5), taken = false, model = -1091386327},
+        [7] = {coords = vector4(364.93, -585.86, 43.28, 67.5), taken = false, model = -1091386327}, 
+        [8] = {coords = vector4(363.82, -589.09, 43.28, 68.5), taken = false, model = -1091386327},
     },
     ["stations"] = {
         [1] = {label = "Pillbox Hospital", coords = vector4(304.27, -600.33, 43.28, 272.249)}
